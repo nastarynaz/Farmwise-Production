@@ -1,0 +1,17 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+    rules:
+        always_use_package_imports: true
+        avoid_empty_else: true
+        void_checks: true
+        unsafe_html: true
+        unnecessary_string_escapes: true
+        unnecessary_null_checks: true
+        unnecessary_await_in_return: true
+        unnecessary_async: true
+        require_trailing_commas: true
+        prefer_single_quotes: true
+        file_names: false
+        avoid_print: false
+        non_constant_identifier_names: false
