@@ -4,13 +4,14 @@ FarmWise is an app about agricultural modern solution with built-in AI scan and 
 
 ## Table of Contents
 
-* [Features](#features)
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+- [Features](#features)
+- [Stack](#stack)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ```
 ├── .vscode/          # VSCode editor configuration (optional)
@@ -43,8 +44,34 @@ FarmWise is an app about agricultural modern solution with built-in AI scan and 
 
 ## Features
 
-* A list of the main features of your project.
-* Example: User authentication, data management, etc.
+- A list of the main features of your project.
+- Example: User authentication, data management, etc.
+
+## Stack
+
+### FE
+
+- Flutter
+- Gmaps
+
+### BE
+
+- LangChain
+- Express
+- MongoDB (+ mongoose)
+- Gemini
+
+### Firebase
+
+- Cloud Functions
+- Firebase Messaging
+- Firebase Auth
+
+### IoT
+
+- Arduino Nano
+- SIM800L (using GPRS for more mobile deployment)
+- Resistive Soil Moisture Sensor (more sensor is to be added)
 
 ## Requirements
 
@@ -52,6 +79,7 @@ Before starting, make sure you have met the following prerequisites:
 
 API
 on BE and Firebase
+
 ```bash
 MONGO_DB_CONNECTION_URL=YOUR_MONGO_DB_CONNECTION_URL
 NEWS_API_KEY=YOUR_NEWS_API_KEY
@@ -76,6 +104,7 @@ FIREBASE_SERVICE_ACCOUNT_ID=YOUR_FIREBASE_SERVICE_ACCOUNT_ID
 ```
 
 on FE
+
 ```bash
 GOOGLE_MAP_API_KEY=YOUR_GOOGLE_MAP_API_KEY
 API_BASE_URL=YOUR_API_BASE_URL
@@ -98,13 +127,15 @@ cd project-name
 ```
 
 3. Install dependencies:
-on BE
+   on BE
+
 ```bash
 cd BE
 npm install
 ```
 
 on FE
+
 ```bash
 cd FE
 flutter run
