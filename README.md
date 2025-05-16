@@ -110,6 +110,12 @@ GOOGLE_MAP_API_KEY=YOUR_GOOGLE_MAP_API_KEY
 API_BASE_URL=YOUR_API_BASE_URL
 ```
 
+**For Auth**
+Download firebase/functions/service-account-key.json
+Download FE/android/app/google-services.json
+FE/android/app/src/main/AndroidManifest.xml --> Set GEO_API_KEY
+FE/ios/Flutter/GoogleService-Info.plist --> Set GEO_API_KEY
+
 ## Installation
 
 Step-by-step guide to install and set up the project.
