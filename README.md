@@ -44,8 +44,37 @@ FarmWise is an app about agricultural modern solution with built-in AI scan and 
 
 ## Features
 
-- A list of the main features of your project.
-- Example: User authentication, data management, etc.
+### • Farm Details  
+All your farm info in one place!  
+You can check:
+- Where your farm is located  
+- Sensor data like temperature, humidity, and soil moisture
+- Weather forecast
+
+### • Farmy - Farm AI powered by Gemini  
+Got a question? Ask away!  
+Our smart chatbot is ready to help with:
+- Tips on farming and pest control  
+- Decision making reccomendation
+- Suggestions tailored to your farm's weather
+
+### • FarmNews  
+Stay in the loop with the latest updates:  
+- Recent news actual and factual  
+- News about farming programs and support  
+- Cool tech and smart farming trends
+
+### • Scan Vegetations  
+Use your camera to scan your plants!  
+- Instantly spot unhealthy leaves or pest problems  
+- Get quick suggestions on what to do next  
+- It’s like having a plant doctor in your pocket
+
+### • Notifications  
+Never miss a thing:  
+- Get weekly alerts for weather conditiona ahead
+- Reccomends for farms 
+- Updates from the chatbot or new farming news
 
 ## Stack
 
