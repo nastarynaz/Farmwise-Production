@@ -60,6 +60,7 @@ FarmWise is an app about agricultural modern solution with built-in AI scan and 
 - Express
 - MongoDB (+ mongoose)
 - Gemini
+- weatherapi.com
 
 ### Firebase
 
@@ -194,15 +195,16 @@ First and foremost, we would like to thank God for the strength and inspiration 
 Special thanks to **GDGoC UGM** for the platform and opportunity that brought this team together.
 
 We are also grateful to each member of our team:
+
 - **Anas** for his role as the Hustler — driving the vision and keeping us focused.
 - **Kevin** as the Hipster — crafting the user experience with creativity and design.
 - **Nasta** as Hacker 1 — solving technical challenges with persistence.
 - **Atila** as Hacker 2 — ensuring the backend runs smoothly and efficiently.
 
 We deeply appreciate the support and knowledge from the wider developer community, especially:
+
 - **Stack Overflow**
 - **Arduino Forum**
 - **StackExchange**
 
 And last but not least, a heartfelt thank-you to **anime** — for keeping our spirits high during long coding nights.
-
